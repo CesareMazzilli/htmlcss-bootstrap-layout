@@ -1,5 +1,14 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+body *{
+    background-color: #f8f9fa;
 }
+
+h3 *{
+    font-size: 1.5rem;
+}
+
+p *{
+    font-size: 1rem;
+}
+
+p, h3 *{
+    margin: 0;}
